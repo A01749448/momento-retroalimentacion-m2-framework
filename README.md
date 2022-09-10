@@ -40,11 +40,11 @@ Los siguientes son los valores de las métricas obtenidas al encontrar los mejor
 </p>
 
 <p align = "center">
-  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/busquedaDeAlpha.png" width="250px">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/busquedaDeAlpha.png" width="400px">
 </p>
 
 <p align = "center">
-  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/metricasArbolFinal.png" width="3500px">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/metricasArbolFinal.png" width="350px">
 </p>
 
 <p align = "center">
