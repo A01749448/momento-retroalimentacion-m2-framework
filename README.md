@@ -28,6 +28,8 @@ Breast Cancer, obtenido de: [dataset](https://goo.gl/U2Uwz2) y [scikit-learn](ht
 
 Para este modelo se realizaron 5 configuraciones de árboles de decisión, con el propósito de encontrar con que parámetros se obtenía un mayor número de score, y que por ende, se obtuvieran mejores predicciones. Los árboles obtenidos y sus scores fueron los siguientes. 
 
+![scores](https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/metricasArbolesCode.png)
+
 ![scores](https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/metricasArboles.png)
 
 ### Archivo a Revisar 
