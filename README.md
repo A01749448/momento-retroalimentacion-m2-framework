@@ -24,6 +24,10 @@ El Github incluye la descripción de la entrega (ya sea en el readme o en un doc
 
 Breast Cancer, obtenido de: [dataset](https://goo.gl/U2Uwz2) y [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html#sklearn.datasets.load_breast_cancer)
 
-### Métrica de Desempeño 
+### Métricas de Desempeño 
 
+Para este modelo se realizaron 5 configuraciones de árboles de decisión, con el propósito de encontrar con que parámetros se obtenía un mayor número de score, y que por ende, se obtuvieran mejores predicciones. Los árboles obtenidos y sus scores fueron los siguientes. 
 
+### Archivo a Revisar 
+
+Para una mejor visualización del programa y sus resultados, se encuentra el archivo *momentoDeRetroalimentacionM2Framework.ipynb* y de igual forma se encuentra el archivo para correr directamente en un compilador el archivo *momentoDeRetroalimentacionM2Framework.py*
