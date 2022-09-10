@@ -30,7 +30,7 @@ Para este modelo se realizaron 5 configuraciones de árboles de decisión, con e
 
 <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/metricasArbolesCode.png" width="500px">
 
-![scores](https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/metricasArboles.png)
+<img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/metricasArboles.png" width="250px>
 
 ### Archivo a Revisar 
 
