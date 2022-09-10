@@ -44,15 +44,15 @@ Los siguientes son los valores de las métricas obtenidas al encontrar los mejor
 </p>
 
 <p align = "center">
-  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/metricasArbolFinal.png" width="250px">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/metricasArbolFinal.png" width="3500px">
 </p>
 
 <p align = "center">
-  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/classificationReport.png" width="250px">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/classificationReport.png" width="350px">
 </p>
 
 <p align = "center">
-  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/matrizConfusion.png" width="250px">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/matrizConfusion.png" width="500px">
 </p>
 
 ### Archivo a Revisar 
