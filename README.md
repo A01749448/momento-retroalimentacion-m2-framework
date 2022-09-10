@@ -3,9 +3,6 @@
 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución.
 ### Jorge Chávez Badillo A01749448
 
-
-El Github incluye la descripción de la entrega (ya sea en el readme o en un documento) y contiene todos los elementos solicitados (librería utilizada, dataset usado, métrica de desempeño (valor logrado sobre el subset de prueba), predicciones de prueba (entradas, valor esperado, valor obtenido), nombre del archivo a revisar)
-
 ### Librerías Utilizadas:
 
 * *graphviz* Software de dibujo de diagramas, en este caso utilizada para el árbol de decisión. 
@@ -32,7 +29,31 @@ Para este modelo se realizaron 5 configuraciones de árboles de decisión, con e
   <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/metricasArbolesCode.png" width="500px">
 </p>
 
-<img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/metricasArboles.png" width="250px">
+<p align = "center">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/metricasArboles.png" width="250px">
+</p>
+
+Los siguientes son los valores de las métricas obtenidas al encontrar los mejores parámetros y valor de alpha para el modelo. 
+
+<p align = "center">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/scoreArbolFinal.png" width="250px">
+</p>
+
+<p align = "center">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/busquedaDeAlpha.png" width="250px">
+</p>
+
+<p align = "center">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/metricasArbolFinal.png" width="250px">
+</p>
+
+<p align = "center">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/classificationReport.png" width="250px">
+</p>
+
+<p align = "center">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/matrizConfusion.png" width="250px">
+</p>
 
 ### Archivo a Revisar 
                                                                                                                              
