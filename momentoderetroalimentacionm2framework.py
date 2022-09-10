@@ -30,6 +30,7 @@ from sklearn import tree
 from sklearn import metrics
 import graphviz
 import seaborn as sns
+from mlxtend.plotting import plot_learning_curves
 
 """## Lectura de Datos"""
 
@@ -100,6 +101,7 @@ y = df['status']
 
 # Training y Testing
 x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.20)
+x_train2, x_val, y_train2, y_val = train_test_split(x_train, y_train, test_size = 0.20)
 
 """### Escalamiento Datos de X"""
 
@@ -259,6 +261,7 @@ graphData
 
 # Prediccion de los valores usando el árbol de decisión 
 prediccion = finalTree.predict(x_test)
+prediccionVal = finalTree.predict(x_val)
 # Valores reales de y
 y_test = np.array(y_test)
 print('=' * 80)
@@ -277,9 +280,9 @@ print(finalTree.predict_proba(x_test))
 print(metrics.classification_report(y_test, prediccion, 
                                     target_names = ['Maligno', 'Benigno']))
 
-print('Accuracy Score: ', metrics.accuracy_score(y_test, prediccion))
-print('Precision Score: ', metrics.precision_score(y_test, prediccion))
-print('Recall Score: ', metrics.recall_score(y_test, prediccion))
+print('Accuracy Score Test: ', metrics.accuracy_score(y_test, prediccion))
+print('Precision Score Test: ', metrics.precision_score(y_test, prediccion))
+print('Recall Score Test: ', metrics.recall_score(y_test, prediccion))
 
 print('Matriz de Confusión: ')
 confusion_matrix = metrics.confusion_matrix(y_test, prediccion, labels = [0, 1])
@@ -302,3 +305,16 @@ feature_importance
 
 feature_importance.plot.bar().set(title = 'Feature Importance')
 
+plot_learning_curves(x_train, y_train, x_test, y_test, finalTree)
+plt.ylim(-0.2, 0.2)
+plt.show()
+
+plot_learning_curves(x_train, y_train, x_test, y_test, decisionTree1)
+plt.ylim(-0.2, 0.2)
+plt.show()
+
+'''
+Cómo se puede observar en los gráficos anteriores, con el modelo finalTree se 
+llegó a el fit deseado gracias a los valores que fueron elegidos para cada 
+uno de los parámetros del árbol de decisión. 
+'''
