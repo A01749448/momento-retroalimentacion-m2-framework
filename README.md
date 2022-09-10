@@ -8,16 +8,20 @@ El Github incluye la descripción de la entrega (ya sea en el readme o en un doc
 
 ### Librerías Utilizadas:
 
-* *numpy* : Para la creación de vectores y matrices.
-* *pandas* : Para la creación y operaciones de dataframes.
-* *seaborn* : Basada en matplotlib para la graficación de datos estadísticos.
-* *matplotlib.pyplot* : Para la generación de gráficos.
-* *sklearn.model_selection - train_test_split* : Para la división de los datos en subconjuntos de entrenamiento y prueba.
-* *sklearn.preprocessing - StandardScaler* : Para el escalamiento de datos.
-* *sklearn.ensemble - RandomForestClassifier* : Para la implementación del algoritmo de bosques aleatorios.
-* *sklearn.metrics - confusion_matrix* : Para la visualización de desempeño del algoritmo.
-* *sklearn - metrics* : Para el cálculo de errores medios (cuadrático o absoluto).
+* *graphviz*
+* *numpy*
+* *pandas*
+* *seaborn*
+* *sklearn.tree*
+* *sklearn.metrics*
+* *matplotlib.pyplot*
+* *sklearn.tree.DecisionTreeClassifier*
+* *sklearn.preprocessing.StandardScaler*
+* *mlxtend.plotting.plot_learning_curves*
+* *sklearn.model_selection.train_test_split*
 
 ### Dataset Utilizado
 
-Breast Cancer, obtenido de: [dataset](https://goo.gl/U2Uwz2)
+Breast Cancer, obtenido de: [dataset](https://goo.gl/U2Uwz2) y [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html#sklearn.datasets.load_breast_cancer)
+
+
