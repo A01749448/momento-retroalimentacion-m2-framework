@@ -22,7 +22,7 @@ El Github incluye la descripción de la entrega (ya sea en el readme o en un doc
 
 ### Dataset Utilizado
 
-Breast Cancer, obtenido de: [dataset](https://goo.gl/U2Uwz2) y [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html#sklearn.datasets.load_breast_cancer
+Breast Cancer, obtenido de: [dataset](https://goo.gl/U2Uwz2) y [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html#sklearn.datasets.load_breast_cancer)
 
 ### Métrica de Desempeño 
 
