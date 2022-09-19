@@ -33,7 +33,23 @@ Para este modelo se realizaron 5 configuraciones de árboles de decisión, con e
   <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/metricasArboles.png" width="250px">
 </p>
 
-Los siguientes son los valores de las métricas obtenidas al encontrar los mejores parámetros y valor de alpha para el modelo. 
+Los siguientes son los valores de las métricas obtenidas al encontrar los mejores parámetros y valor de alpha para el modelo, en este caso el árbol final utilizado obtiene valores muy bien ajustados y en las siguientes imágenes también se pueden observar las predicciones realizadas con este modelo, los valores de entrada y una comparación entre los valores reales y la predicción obtenida. 
+
+**Predicciones**
+
+<p align = "center">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/valores.png" width="250px">
+</p>
+
+<p align = "center">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/tablaComparativa1.png" width="250px">
+</p>
+
+<p align = "center">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/tablaComparativa2.png" width="250px">
+</p>
+
+**Métricas Obtenidas**
 
 <p align = "center">
   <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/scoreArbolFinal.png" width="250px">
