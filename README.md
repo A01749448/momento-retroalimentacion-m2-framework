@@ -38,15 +38,15 @@ Los siguientes son los valores de las métricas obtenidas al encontrar los mejor
 **Predicciones**
 
 <p align = "center">
-  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/valores.png" width="250px">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/valores.png" width="500px">
 </p>
 
 <p align = "center">
-  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/tablaComparativa1.png" width="250px">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/tablaComparativa1.png" width="500px">
 </p>
 
 <p align = "center">
-  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/tablaComparativa2.png" width="250px">
+  <img src="https://github.com/A01749448/momento-retroalimentacion-m2-framework/blob/main/Imagenes/tablaComparativa2.png" width="500px">
 </p>
 
 **Métricas Obtenidas**
